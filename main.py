@@ -24,7 +24,7 @@ mile_label.grid(column=2, row=0)
 is_equal_to_label = Label(text="is equal to")
 is_equal_to_label.grid(column=0, row=1)
 
-# converted value of miles Label
+# km value Label
 km_output = Label(text="0")
 km_output.grid(column=1, row=1)
 
